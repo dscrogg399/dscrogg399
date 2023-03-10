@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dscrogg399
 - 👀 I’m interested in mobile app and web app development.
-- 🌱 I’m currently learning API design with Laravel and web development.
+- 🌱 I’m currently learning Svelete Development and Microsoft Azure
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me: email me at dscrogg399@gmail.com
 
